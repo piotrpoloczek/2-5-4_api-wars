@@ -1,0 +1,15 @@
+Flask==2.2.2
+Flask-SQLAlchemy
+psycopg2-binary
+psycopg2
+Click==8.0
+itsdangerous==2.1.0
+Jinja2==3.0.0
+MarkupSafe==2.1.1
+Werkzeug==2.2.2
+flask-login
+Flask-WTF
+email-validator
+Flask-Migrate
+gunicorn
+Flask-Cors
